@@ -1,0 +1,18 @@
+
+Csquid:S2068" Remove this hard-coded password.(é¶£Öùÿÿÿÿ8±“È×¦.
+‡squid:S1192"dDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/arduino" 3 times.(é¶£Öùÿÿÿÿ8İ¶…Ù¦.
+bsquid:S2147 "DCombine this catch with the one at line 30, which has the same body.(ıàÑÎ8Ø÷Ó×¦.
+bsquid:S21473"DCombine this catch with the one at line 49, which has the same body.(ıàÑÎ8‘¦šØ¦.
+bsquid:S2147K"DCombine this catch with the one at line 73, which has the same body.(É®£8¼²†Ù¦.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¦æº×¦.
+Psquid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8¶¿Ó×¦.
+ysquid:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 3 times.(¹µÖÁüÿÿÿÿ8İ¶…Ù¦.
+Psquid:S4925("-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8‘¦šØ¦.
+Csquid:S2068)" Remove this hard-coded password.(é¶£Öùÿÿÿÿ8‘¦šØ¦.
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘¦šØ¦.
+Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘¦šØ¦.
+Fsquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼²†Ù¦.
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø÷Ó×¦.
+Psquid:S4925<"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ï—†Ù¦.
+Csquid:S2068=" Remove this hard-coded password.(é¶£Öùÿÿÿÿ8İ¶…Ù¦.
+Fsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ï—†Ù¦.
